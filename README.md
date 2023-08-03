@@ -61,3 +61,5 @@ The UCI page mentions the following publication as the original source of the da
 
 *Yeh, I. C., & Lien, C. H. (2009). The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert Systems with Applications, 36(2), 2473-2480*
 
+#   d e f a u l t _ o f _ c r e d i t _ c a r d s  
+ 
